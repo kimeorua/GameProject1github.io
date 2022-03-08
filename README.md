@@ -12,4 +12,5 @@
 
 ## 2.게임에 사용 에셋
 2-1 플레이어 캐릭터
+
 <img src="https://github.com/kimeorua/kimeorua.github.io/blob/main/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%20%EC%BA%90%EB%A6%AD%ED%84%B0.PNG?raw=true">
