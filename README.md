@@ -15,7 +15,7 @@
 ## 주차별 개발 계획
 2-1 첫재 주: 게임에 기본 장르 및 계획서 수립 및 플레이어 캐릭터 이셋 
 
-## 게임에 사용 에셋
+## 게임에 사용할 에셋
 3-1 플레이어 캐릭터
 
 <img src="https://github.com/kimeorua/kimeorua.github.io/blob/main/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%20%EC%BA%90%EB%A6%AD%ED%84%B0.PNG?raw=true">
