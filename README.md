@@ -16,6 +16,9 @@
 
 <img src="https://github.com/kimeorua/kimeorua.github.io/blob/main/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%20%EC%BA%90%EB%A6%AD%ED%84%B0.PNG?raw=true">
 
+적 캐릭터
+<img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EC%A0%81%20%EC%BA%90%EB%A6%AD%ED%84%B0.PNG?raw=true">
+
 
 ## 게임 제작 툴
 ### 언리얼 엔진 4
