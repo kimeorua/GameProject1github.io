@@ -40,7 +40,8 @@ Mixamo: 무료 캐릭터 및 애니메이선 사이트로 플레이어 캐릭터
   캐릭터 에셋
   
   <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%20%EC%BA%90%EB%A6%AD%ED%84%B0.PNG?raw=true">
-  
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
   거미형 적 캐릭터(화속성 약함)
   
@@ -68,3 +69,7 @@ Mixamo: 무료 캐릭터 및 애니메이선 사이트로 플레이어 캐릭터
  <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EA%B8%B0%EA%B3%84%ED%98%95%20%EC%A0%81%20%EC%BA%90%EB%A6%AD%ED%84%B03.PNG?raw=true">
  
  
+### 3주차
+  개발 목표: 적 및 캐릭터의 애니메이션 구현
+  
+  Mixamo사이트 및 Infinity Blade 와 파라곤의 애니메이션을 이용하여 구현
