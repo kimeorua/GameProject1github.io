@@ -84,8 +84,8 @@ Mixamo: 무료 캐릭터 및 애니메이선 사이트로 플레이어 캐릭터
   
   화염속성 마법검
   
-  <img src = "">
+  <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EB%A7%88%EB%B2%95%20%EA%B2%80.PNG?raw=true">
   
   전기속성 마법도끼
   
-  <img src = "">
+  <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EB%A7%88%EB%B2%95%20%EB%8F%84%EB%81%BC.PNG?raw=true">
