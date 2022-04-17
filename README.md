@@ -95,10 +95,11 @@ Mixamo: 무료 캐릭터 및 애니메이선 사이트로 플레이어 캐릭터
   
    화염 마법
   
-   <img src = "">
+   <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EB%B6%88%20%EB%A7%88%EB%B2%95.PNG?raw=true">
    
    전기 마법
    
-   <img src = "">
+   <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EC%A0%84%EA%B8%B0%20%EB%A7%88%EB%B2%95.PNG?raw=true">
+   
 ### 6주차
   개발 목표: 마법 스킬의 이펙트 구현 및 데미지 수치 지정
