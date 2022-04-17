@@ -44,4 +44,15 @@ Mixamo: 무료 캐릭터 및 애니메이선 사이트로 플레이어 캐릭터
  
  기계형 적 캐릭터
  
- <img src =
+ 1.
+ 
+ <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EA%B8%B0%EA%B3%84%ED%98%95%20%EC%A0%81%20%EC%BA%90%EB%A6%AD%ED%84%B0.PNG?raw=true">
+ 
+ 2.
+ 
+ <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EA%B8%B0%EA%B3%84%ED%98%95%20%EC%A0%81%20%EC%BA%90%EB%A6%AD2.PNG?raw=true">
+ 
+ 3.
+ 
+ <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EA%B8%B0%EA%B3%84%ED%98%95%20%EC%A0%81%20%EC%BA%90%EB%A6%AD%ED%84%B03.PNG?raw=true">
+ 
