@@ -89,3 +89,16 @@ Mixamo: 무료 캐릭터 및 애니메이선 사이트로 플레이어 캐릭터
   전기속성 마법도끼
   
   <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EB%A7%88%EB%B2%95%20%EB%8F%84%EB%81%BC.PNG?raw=true">
+  
+### 5주차
+  개발 목표: 주인공이 사용하는 마법 스킬 구현
+  
+   화염 마법
+  
+   <img src = "">
+   
+   전기 마법
+   
+   <img src = "">
+### 6주차
+  개발 목표: 마법 스킬의 이펙트 구현 및 데미지 수치 지정
