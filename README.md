@@ -40,6 +40,8 @@ Mixamo: 무료 캐릭터 및 애니메이선 사이트로 플레이어 캐릭터
   
   거미형 적 캐릭터(화속성 약함)
   
+  거미형 적은 화속성에 약하며 가장 기초적인 적이다.
+  
  <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EC%A0%81%20%EC%BA%90%EB%A6%AD%ED%84%B0.PNG?raw=true">
  
  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -47,14 +49,17 @@ Mixamo: 무료 캐릭터 및 애니메이선 사이트로 플레이어 캐릭터
  기계형 적 캐릭터
  
  1.(전기 속성 약함)
+ 거미와 다르게 인간형으로 2족 보행을 하고 전기 속성에 약하다
  
  <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EA%B8%B0%EA%B3%84%ED%98%95%20%EC%A0%81%20%EC%BA%90%EB%A6%AD%ED%84%B0.PNG?raw=true">
  
  2.(전기 속성 약함)
+ 1번의 기계형 적의 강화형태로 공격력과 생명력이 높다. 똑같이 전기 속성에 취약
  
  <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EA%B8%B0%EA%B3%84%ED%98%95%20%EC%A0%81%20%EC%BA%90%EB%A6%AD2.PNG?raw=true">
  
  3.(물리 속성 약함)
+ 1,2번 기계형과 다르게 갑옷을 더 입었다. 전기 속성에 대한 내성을 높힌 대신 물리속성에 약하다.
  
  <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EA%B8%B0%EA%B3%84%ED%98%95%20%EC%A0%81%20%EC%BA%90%EB%A6%AD%ED%84%B03.PNG?raw=true">
  
