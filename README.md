@@ -32,15 +32,4 @@ Mixamo: 무료 캐릭터 및 애니메이선 사이트로 플레이어 캐릭터
 ### 2주차
   개발 목표: 캐릭터의 에셋 선정 및 이동 구현
   
-  ---> 캐릭터 및 적 에셋 선정 및 이동 구현
-  
-      - 캐릭터 에셋
-      
-      <img src="https://github.com/kimeorua/kimeorua.github.io/blob/main/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%20%EC%BA%90%EB%A6%AD%ED%84%B0.PNG?raw=true">
-      
-      -적 캐릭터
-      
-        -> 거미형 적
-         <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EC%A0%81%20%EC%BA%90%EB%A6%AD%ED%84%B0.PNG?raw=true">
-        -> 기계형 적
-         
+  --->캐릭터 및 적 에셋 선정 및 이동 구현
