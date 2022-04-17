@@ -39,6 +39,7 @@ Mixamo: 무료 캐릭터 및 애니메이선 사이트로 플레이어 캐릭터
   
   캐릭터 에셋
   
+  <img src = "
   
   
   거미형 적 캐릭터(화속성 약함)
@@ -65,4 +66,5 @@ Mixamo: 무료 캐릭터 및 애니메이선 사이트로 플레이어 캐릭터
  1,2번 기계형과 다르게 갑옷을 더 입었다. 전기 속성에 대한 내성을 높힌 대신 물리속성에 약하다.
  
  <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EA%B8%B0%EA%B3%84%ED%98%95%20%EC%A0%81%20%EC%BA%90%EB%A6%AD%ED%84%B03.PNG?raw=true">
+ 
  
