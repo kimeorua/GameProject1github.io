@@ -39,7 +39,7 @@ Mixamo: 무료 캐릭터 및 애니메이선 사이트로 플레이어 캐릭터
   
   캐릭터 에셋
   
-  <img src = "
+  <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%20%EC%BA%90%EB%A6%AD%ED%84%B0.PNG?raw=true">
   
   
   거미형 적 캐릭터(화속성 약함)
