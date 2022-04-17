@@ -4,9 +4,7 @@
 
 [2. 게임 제작 환경](#게임-제작-툴)
 
-[3.게임에 사용할 에셋 예시](#게임에-사용할-에셋-예시)
-
-
+[3.주차별 개발 현환](#주차별 개발 현황)
 
 ## 게임 장르
 ### 디펜스
@@ -23,12 +21,24 @@
 Mixamo: 무료 캐릭터 및 애니메이선 사이트로 플레이어 캐릭터의 그래픽 및 애니메이션을 가져올 예정이다
 언리얼 마켓플레이스: 게임이 판타지 배경이므로 판타지 배경에 맞는 적과 무기 배경등 여러 에셋을 가져올 예정이다.
 
-## 게임에 사용할 에셋 예시
-플레이어 캐릭터
-
-<img src="https://github.com/kimeorua/kimeorua.github.io/blob/main/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%20%EC%BA%90%EB%A6%AD%ED%84%B0.PNG?raw=true">
-
-적 캐릭터
-
-<img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EC%A0%81%20%EC%BA%90%EB%A6%AD%ED%84%B0.PNG?raw=true">
-
+## 주차별 개발 현황
+### 1주차
+  개발 목표: 제작할 게임의 장르 선정 및 게임에 사용할 에셋 선정
+   -> 제작할 게임 장르: 디펜스로 장르 선정
+      ---> 이유: 처음에는 RPG게임을 만들려 볼려고 하였으나, 시간 및 언리얼 엔진의 이해도 부족으로 인해 구현하기 힘들다고 판단, 
+                 비교적 에셋이 적고 구현이 편한 디펜스 게임을 만들기로 결정
+  -> 사용할 에셋: 언리얼의 무려 에셋 Infinity Blade 와 파라곤의 에셋 및 Mixamoo, freesound.org의 무료 음향을 사용
+      ---> 이유: 접근하기 쉽고 무료에셋으로 부담이 적음
+      
+### 2주차
+  개발 목표: 캐릭터의 에셋 선정 및 이동 구현
+  ---> 캐릭터 및 적 에셋 선정 및 이동 구현
+      - 캐릭터 에셋
+      <img src="https://github.com/kimeorua/kimeorua.github.io/blob/main/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4%20%EC%BA%90%EB%A6%AD%ED%84%B0.PNG?raw=true">
+      
+      -적 캐릭터
+      
+        -> 거미형 적
+         <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EC%A0%81%20%EC%BA%90%EB%A6%AD%ED%84%B0.PNG?raw=true">
+        -> 기계형 적
+         
