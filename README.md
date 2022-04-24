@@ -131,4 +131,9 @@ Mixamo: 무료 캐릭터 및 애니메이선 사이트로 플레이어 캐릭터
 ### 7주차
   개발 목표: 맵이동을 위한 포탈 이펙트 수정 및 맵 구조 변경
   
+  포탈 객체에 이펙트를 추가하여 눈에 잘 띄게 변경 하고 첫번째 맵의 몬스터 및 무기와 아이템의 배치를 변경 하엿다.
+  
   포탈 
+  
+  <img src ="https://github.com/kimeorua/kimeorua.github.io/blob/main/%ED%8F%AC%ED%83%88.PNG?raw=true">
+  
