@@ -160,9 +160,15 @@ Mixamo: 무료 캐릭터 및 애니메이선 사이트로 플레이어 캐릭터
 
   시작지점
   
+  <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EC%8B%9C%EC%9E%91%EC%A7%80%EC%A0%90.PNG?raw=true"?
+  
   1스테이지
   
+  <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/1%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80.PNG?raw=true">
+       
   2스테이지
+  
+  <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/2%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80.PNG?raw=true">
   
 ### 11주차
 
