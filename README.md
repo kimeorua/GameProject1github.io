@@ -160,7 +160,7 @@ Mixamo: 무료 캐릭터 및 애니메이선 사이트로 플레이어 캐릭터
 
   시작지점
   
-  <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EC%8B%9C%EC%9E%91%EC%A7%80%EC%A0%90.PNG?raw=true"?
+  <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EC%8B%9C%EC%9E%91%EC%A7%80%EC%A0%90.PNG?raw=true">
   
   1스테이지
   
@@ -171,12 +171,27 @@ Mixamo: 무료 캐릭터 및 애니메이선 사이트로 플레이어 캐릭터
   <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/2%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80.PNG?raw=true">
   
 ### 11주차
-
+  개발 목표: 관문 구현
+  
+  플레이어가 일정 수의 몬스터를 잡으면 열수 있는 관문을 구현 한다
+  
+  관문
+  
+  <img src = "https://github.com/kimeorua/kimeorua.github.io/blob/main/%EA%B4%80%EB%AC%B8.PNG?raw=true">
 
 ### 12주차
-
+  개발 목표: UI 구현
+  
+  게임에 필요한  UI 구현 및 게임의 스타트 버튼 구현
 
 ### 13주차
-
+  개발 목표: 게임의 종료 및 엔딩 구현
+  
+  플레이어가 게임을 클리어 하거나 죽으면 엔딩 및 재시작하는 프로그렘을 구현
 
 ### 14주차
+  개발목표: 자잘한 버그 및 몬스터 스폰 구역 재설정
+  
+  문제점: 석상과 몬스터의 스폰 구역이 겹쳐서 몬스터가 스폰되자 마자 석상에 닿아 사라지는 현상이 생김
+  
+  해결: 몬스터의 스폰 구역을 줄이고 석상의 위치를 재배치해여 
